@@ -1,4 +1,4 @@
-package com.example.demo.hello;
+package com.mysite.sbb.hello;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
